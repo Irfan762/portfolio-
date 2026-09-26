@@ -6,10 +6,10 @@ let isScrolling = false;
 let typingIndex = 0;
 let typingTextIndex = 0;
 const typingTexts = [
-  'AI Enthusiast',
-  'Problem Solver', 
-  'Innovation Leader',
-  'Tech Explorer'
+  'AI & GenAI Engineer',
+  'Full-Stack Developer', 
+  'IIT Kharagpur Winner',
+  'EY Top 1.5% Selection'
 ];
 
 // DOM elements
